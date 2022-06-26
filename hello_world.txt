@@ -1,0 +1,6 @@
+<DOCTYPE HTML>
+<html></html>
+<link href="styles.css" type="stylesheet">
+<head>
+    <h2>What is the meaning of life?</h2>
+</head>
